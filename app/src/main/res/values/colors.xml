@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#141A31</color>
+    <color name="primary_dark">#081029</color>
+    <color name="accent">#0097FB</color>
+    <color name="text_icons">#FFFFFF</color>
+    <color name="primary_light">#1E2746</color>
+    <color name="text_primary">#CBD5ED</color>
+    <color name="text_secondary">#4A5BB2</color>
+    <color name="text_other">#FAD303</color>
+    <color name="theme_Extra">#FF5252</color>
+    <color name="background_back_button_color">#50FFFFFF</color>
+    <color name="text_btn_color">#212121</color>
+
+</resources>
